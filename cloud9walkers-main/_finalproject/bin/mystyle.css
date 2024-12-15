@@ -1,0 +1,56 @@
+.root {
+  -fx-background-color: skyblue;
+}
+
+.menu-bar {
+  -fx-background-color: skyblue;
+}
+
+.menu-bar .label {
+    -fx-font-size: 20 pt;
+}
+
+.label {
+  -fx-font-size: 20 pt;
+}
+
+.category-buttons {
+  -fx-background-color: none;
+  -fx-font-size: 20 pt;
+  -fx-border-color: black;
+}
+
+.menu-vbox {
+  -fx-background-color: white;
+}
+
+.info-section {
+  -fx-background-color: skyblue;
+}
+
+.statement-label1 {
+  -fx-font-size: 30 pt;
+}
+
+.separator .line {
+    -fx-border-color: black;
+    -fx-border-width: 1;    
+}
+
+.purpose-statement-label {
+    -fx-font-size: 40 pt;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;  
+}
+
+.stories-label {
+	-fx-font-size: 40 pt;
+    -fx-text-fill: skyblue;
+    -fx-font-weight: bold;  
+}
+
+.about-label {
+	-fx-font-size: 40 pt;
+    -fx-text-fill: skyblue;
+    -fx-font-weight: bold;  
+}
